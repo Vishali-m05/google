@@ -7,3 +7,5 @@ node_modules/
 # Large videos stored outside Git
 public/assets/wishes/vishali.mp4
 public/assets/youtube/projectorvideo.mp4
+!public/assets/wishes/vishali.mp4
+!public/assets/youtube/projectorvideo.mp4
