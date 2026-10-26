@@ -1,0 +1,9 @@
+node_modules/
+.env
+.env.*
+!.env.example
+.DS_Store
+
+# Large videos stored outside Git
+public/assets/wishes/vishali.mp4
+public/assets/youtube/projectorvideo.mp4

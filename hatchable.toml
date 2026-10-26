@@ -1,0 +1,5 @@
+# Hatchable project manifest. This file marks the folder as a
+# Hatchable project and declares the services it uses.
+# Reference: https://hatchable.com/docs/developers/config
+name = "Babydoll Google"
+description = "A personalized Google-inspired multi-page site with routed search pages, YouTube, Gmail, Music, and editable media assets."
